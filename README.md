@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Ângela Guilhermino
+# 👩🏾‍💻 Ângela Guilhermino
 
 **`Desenvolvedora em formação • Exploradora da tecnologia com propósito`**
 
