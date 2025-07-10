@@ -116,6 +116,15 @@ Aplicativo com **React Native** + desenvolvimento de um **bastão inteligente co
 ---
 
 <p align="center">“Depois do medo, vem o mundo” – Clarice Lispector</p>
+<p align="center">
+  <img  
+    alt="Infopotency"  
+    title="Infopotency"  
+    width="90px"
+    height="90px"
+    src="https://github.com/user-attachments/assets/a66d1755-0d3d-46c0-8dea-695c09cc7a47"  
+  />
+</p>
 
 
 
