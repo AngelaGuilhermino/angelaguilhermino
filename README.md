@@ -81,7 +81,22 @@ Me chamo Ângela Maria Guiçhermino Alves, tenho 18 anos e sou natural do Rio Gr
   style="padding-right: 10px;"  
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  
 />
-
+<img 
+  align="left" 
+  alt="Figma" 
+  title="Figma"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="Bootstrap" 
+  title="Bootstrap"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" 
+/>
 
 <br/>
 <br/>
