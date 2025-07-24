@@ -1,6 +1,6 @@
 # 👩🏾‍💻 Ângela Guilhermino
 
-**`Desenvolvedora em formação • Exploradora da tecnologia com propósito`**
+**`Desenvolvedora em formação`**
 
 Me chamo Ângela Maria Guiçhermino Alves, tenho 18 anos e sou natural do Rio Grande do Norte. Atualmente, estou concluindo o Curso Técnico Integrado em Informática no IFRN - Campus Canguaretama. Além disso, estou desenvolvendo o projeto de pesquisa *Agrotec: O campo ainda mais conectado IV*. 
 
