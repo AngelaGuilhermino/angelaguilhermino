@@ -2,7 +2,7 @@
 
 **`Desenvolvedora em formação`**
 
-Me chamo Ângela Maria Guiçhermino Alves, tenho 18 anos e sou natural do Rio Grande do Norte. Atualmente, estou concluindo o Curso Técnico Integrado em Informática no IFRN - Campus Canguaretama. Além disso, estou desenvolvendo o projeto de pesquisa *Agrotec: O campo ainda mais conectado IV*. 
+Me chamo Ângela Maria Guilhermino Alves, tenho 18 anos e sou natural do Rio Grande do Norte. Atualmente, estou concluindo o Curso Técnico Integrado em Informática no IFRN - Campus Canguaretama. Além disso, estou desenvolvendo o projeto de pesquisa *Agrotec: O campo ainda mais conectado IV*. 
 
 ---
 
@@ -104,6 +104,14 @@ Me chamo Ângela Maria Guiçhermino Alves, tenho 18 anos e sou natural do Rio Gr
   width="30px" 
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="Git" 
+  title="Git"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
 />
 
 <br/>
