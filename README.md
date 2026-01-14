@@ -1,8 +1,8 @@
 # 👩🏾‍💻 Ângela Guilhermino
 
-**`Desenvolvedora em formação`**
+**`Desenvolvedora | Técnica em Informática`**
 
-Me chamo Ângela Maria Guilhermino Alves, tenho 18 anos e sou natural do Rio Grande do Norte. Atualmente, estou concluindo o Curso Técnico Integrado em Informática no IFRN - Campus Canguaretama. Além disso, estou desenvolvendo o projeto de pesquisa *Agrotec: O campo ainda mais conectado IV*. 
+Me chamo Ângela Maria Guilhermino ALves, tenho 19 anos e sou do Rio Grande do Norte. Possuo o título de Técnica em Informática formada pelo IFRN – Campus Canguaretama. Experiência em desenvolvimento mobile com React Native, integração de sistemas IoT e atuação em UI/UX Design. Possuo base sólida em desenvolvimento web, bancos de dados e lógica de programação, com experiência prática em Python, JavaScript, C++, Django, PostgreSQL e MySQL. Também tenho conhecimentos em hardware, manutenção de computadores, automação, análise de dados e uso de IA para previsão de informações. Busco aprendizado contínuo e novos desafios na área de tecnologia. 
 
 ---
 
@@ -113,6 +113,15 @@ Me chamo Ângela Maria Guilhermino Alves, tenho 18 anos e sou natural do Rio Gra
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
 />
+<img 
+  align="left" 
+  alt="Arduino" 
+  title="Arduino"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" 
+/>
+
 
 <br/>
 <br/>
@@ -147,7 +156,7 @@ Aplicativo com **React Native** + desenvolvimento de um **bastão inteligente co
 
 ---
 
-<p align="center">“Depois do medo, vem o mundo” – Clarice Lispector</p>
+<p align="center">Sempre em busca de aprender, evoluir e aplicar tecnologia para resolver problemas reais.</p>
 <p align="center">
  <!-- <img  
     alt="Infopotency"  
