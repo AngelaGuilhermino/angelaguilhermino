@@ -2,7 +2,7 @@
 
 **`Desenvolvedora | Técnica em Informática`**
 
-Me chamo Ângela Maria Guilhermino ALves, tenho 19 anos e sou do Rio Grande do Norte. Possuo o título de Técnica em Informática pelo IFRN – Campus Canguaretama. Experiência em desenvolvimento mobile com React Native, integração de sistemas IoT e atuação em UI/UX Design. Possuo base sólida em desenvolvimento web, bancos de dados e lógica de programação, com experiência prática em Python, JavaScript, C++, Django, PostgreSQL e MySQL. Também tenho conhecimentos em hardware, manutenção de computadores, automação, análise de dados e uso de IA para previsão de informações. Busco aprendizado contínuo e novos desafios na área de tecnologia. 
+Me chamo Ângela Maria Guilhermino Alves, tenho 19 anos e sou do Rio Grande do Norte. Possuo o título de Técnica em Informática pelo IFRN – Campus Canguaretama. Experiência em desenvolvimento mobile com React Native, integração de sistemas IoT e atuação em UI/UX Design. Possuo base sólida em desenvolvimento web, bancos de dados e lógica de programação, com experiência prática em Python, JavaScript, C++, Django, PostgreSQL e MySQL. Também tenho conhecimentos em hardware, manutenção de computadores, automação, análise de dados e uso de IA para previsão de informações. Busco aprendizado contínuo e novos desafios na área de tecnologia. 
 
 ---
 
