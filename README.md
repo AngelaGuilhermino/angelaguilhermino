@@ -130,6 +130,7 @@ Me chamo Ângela Maria Guilhermino Alves, tenho 19 anos e sou do Rio Grande do N
 🐮 **[Agrotec: O campo ainda mais conectado IV](https://github.com/angelaguilhermino)**  
 Aplicativo com **React Native** + desenvolvimento de um **bastão inteligente com RFID**, integrando soluções tecnológicas ao campo rural.
 
+<!--
 ### 📊 Estatísticas
 
 <p>
@@ -152,7 +153,7 @@ Aplicativo com **React Native** + desenvolvimento de um **bastão inteligente co
 </p>
 
 <br clear="both"/>
-
+-->
 ---
 
 <p align="center">Sempre em busca de aprender, evoluir e aplicar tecnologia para resolver problemas reais.</p>
